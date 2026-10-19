@@ -1,0 +1,8 @@
+data/*
+!data/.gitkeep
+!data/portfolio_with_ecl.parquet
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.streamlit/secrets.toml
