@@ -1,6 +1,6 @@
 # IFRS 9 ECL Engine & Model-Challenge Dashboard
 
-🚀 **[Live dashboard](https://YOUR-APP.streamlit.app)** · 📄 **[Project report (PDF)](IFRS9_ECL_Project_Report.pdf)**
+🚀 **[Live dashboard](https://arjinasim-ifrs9-ecl-engine-appstreamlit-app-9hdoqe.streamlit.app)** · 📄 **[Project report (PDF)](IFRS9_ECL_Project_Report.pdf)**
 
 An end-to-end **expected-credit-loss (ECL)** engine for a loan portfolio, from the
 PD model to committee reporting, together with the independent validation layer
